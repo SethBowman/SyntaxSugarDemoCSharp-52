@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\bin\Debug\net8.0\SyntaxSugarDemoCSharp-52.exe
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\bin\Debug\net8.0\SyntaxSugarDemoCSharp-52.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\bin\Debug\net8.0\SyntaxSugarDemoCSharp-52.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\bin\Debug\net8.0\SyntaxSugarDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\bin\Debug\net8.0\SyntaxSugarDemoCSharp-52.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\refint\SyntaxSugarDemoCSharp-52.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\SyntaxSugarDemoCSharp-52.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SyntaxSugarDemoCSharp-52\SyntaxSugarDemoCSharp-52\obj\Debug\net8.0\ref\SyntaxSugarDemoCSharp-52.dll
